@@ -1,4 +1,9 @@
-# Sonic Robo Blast 2
+# Sonic Robo Blast 2 (WITH MARIO FROM SUPER MARIO 64!!!!!)
+A fork of Sonic Robo Blast 2 that replaces the player with Mario using libsm64 (ROM not included) (ai slop code not included) (actual code not included i havent started yet)
+<img width="2752" height="1536" alt="recreation of an ai slop image i found that had mario in greenflower zone act 1 with an early sonic sprite from like 1999 or 1998 in the hud" src="https://github.com/user-attachments/assets/fd5dd709-0f01-4f96-b794-e921c8be08ef" />
+
+
+# original description
 [![latest release](https://badgen.net/github/release/STJr/SRB2/stable)](https://github.com/STJr/SRB2/releases/latest)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/399d4hcw9yy7hg2y?svg=true)](https://ci.appveyor.com/project/STJr/srb2)
